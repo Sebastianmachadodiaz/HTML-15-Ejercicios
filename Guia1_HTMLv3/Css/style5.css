@@ -1,0 +1,16 @@
+h1 {
+    font-family: fantasy;
+    color: rgb(6, 104, 233); 
+}
+#parr1 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+color: rgb(17, 230, 184);
+}
+#container {
+width: 800px;
+height: 400px;
+background-color: rgb(194, 9, 9);
+margin-left: auto;
+margin-right: auto;
+}

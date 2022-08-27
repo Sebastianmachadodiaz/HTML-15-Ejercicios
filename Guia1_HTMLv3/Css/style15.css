@@ -1,0 +1,51 @@
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(238, 0, 0);
+}
+#parr1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(198, 238, 18);
+}
+#parr2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(198, 238, 18);
+}
+#parr3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color:rgb(198, 238, 18);
+}
+#parr4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(198, 238, 18);
+}
+#parr5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(198, 238, 18);
+}
+#parr6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(198, 238, 18);
+}
+#parr7 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(198, 238, 18);
+}
+#parr8 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(198, 238, 18);
+}
+#container {
+    width: 500px;
+    height: 513px;
+    background-color: rgba(47, 0, 255, 0.836);
+    margin-left: auto;
+    margin-right: auto
+}

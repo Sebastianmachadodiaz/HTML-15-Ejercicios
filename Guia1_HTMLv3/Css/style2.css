@@ -1,0 +1,29 @@
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(21, 5, 238); 
+}
+#parr1 {
+font-family: cursive;
+font-size: 20px;
+color: rgb(230, 17, 194);
+
+}
+#parr2 {
+font-family: cursive;
+font-size: 20px;
+color: rgb(224, 10, 214);
+}
+
+#parr3 {
+font-family: cursive;
+font-size: 20px;
+color: rgb(233, 8, 165);
+}
+
+#container {
+width: 800px;
+height: 500px;
+background-color: rgb(253, 216, 4);
+margin-left: auto;
+margin-right: auto;
+}

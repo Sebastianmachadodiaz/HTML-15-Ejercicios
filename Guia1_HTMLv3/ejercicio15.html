@@ -1,0 +1,63 @@
+<!--
+    ENTIDAD: Centro de Biotecnología Agropecuaria
+    FICHA: 2558346
+    PROGRAMA: Analisis y Desarrollo de Software
+    AUTOR: Juan Sebastian Machado Diaz
+    OBJETIVO>: Uso de las etiquetas HTML: p, strong, em, del
+    FECHA DE CREACIÓN: 31 de Julio de 2022
+    VERSION: 2.0.0
+    FECHA DE MODIFICACION: 1/08/22 - Juan Sebastian Machado Diaz
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 15</title>
+    <link rel="stylesheet" href="./css/style15.css">
+</head>
+
+<body>
+    <div id="container">
+        <h3>Informacion sobre el producto</h3>
+        <form action="/php/insertar_subasta.php" method="post" enctype="multipart/form-data">
+            <fieldset>
+                <legend id="parr1">Datos Basicos</legend>
+                <label id="parr2" for="nombre">Nombre</label> <br />
+
+                <input type="text" name="nombre" id="nombre" size="50" maxlength="250" />
+                <br /><br />
+                <label id="parr3" for="descripcion">Descripcion</label><br />
+                <textarea name="descripcion" id="descripcion" cols="40" rows="5"></textarea>
+                <br /><br />
+                Foto <input id="parr4" type="file" name="foto" />
+
+                <br /><br />
+                Foto <input type="checkbox" value="si" />Añadir contador de visitas
+            </fieldset>
+
+            <fieldset>
+                <legend id="parr5">Datos economicos</legend>
+                <label id="parr6" for="precio">Precio</label>
+                <input type="text" size="5" id="precio" name="precio" /> &euro;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <label id="parr7" for="impuestos">Impuestos</label>
+                <select id="impuestos" name="impuestos">
+                    <option value="4">4%</option>
+                    <option value="7">7%</option>
+                    <option value="16">16%</option>
+                    <option value="25">25%</option>
+                </select>
+                <br /><br />
+                <label id="parr8">Promocion</label><br />
+                <input type="radio" name="promocion" value="ninguno" checked="checked" /> Ninguno <br />
+
+                <input type="radio" name="promocion" value="portes" /> Transporte gratuito <br />
+                <input type="radio" name="promocion " value="descuento" /> Descuento 5%
+            </fieldset>
+        </form>
+    </div>
+</body>
+
+</html>
