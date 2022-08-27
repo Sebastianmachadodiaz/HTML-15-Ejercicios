@@ -7,6 +7,7 @@
     FECHA DE CREACIÓN: 31 de Julio de 2022
     VERSION: 2.0.0
     FECHA DE MODIFICACION: 1/08/22  - Juan Sebastian Machado Diaz
+    
 En este repositorio se encuentran 15 ejercicios HTML dados por el instructor, cada carpeta es una versión con etiquetas usadas como: h1, h2, h3, p, form, fieldset, em, table, ul, li, fd, fh y div
 ✅Validación W3C
   ✅Todo el archivo esta en diferentes versiones de HTML
